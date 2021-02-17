@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "850628911361",
+    "firebase_url": "https://socialnative-95d99-default-rtdb.firebaseio.com",
+    "project_id": "socialnative-95d99",
+    "storage_bucket": "socialnative-95d99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850628911361:android:3d510f4d2df093d33f7b00",
+        "android_client_info": {
+          "package_name": "com.socialmedialnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850628911361-8p5dp1sg3tb52iprem1rni2udrhobkor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfjsKESb945I94_fyNCRmLztS_iXq0-QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850628911361-8p5dp1sg3tb52iprem1rni2udrhobkor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
